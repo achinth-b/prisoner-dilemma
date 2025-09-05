@@ -1,0 +1,42 @@
+=== PRISONER'S DILEMMA EXPERIMENT RESULTS ===
+
+Payoff Matrix:
+  ('cooperate', 'cooperate'): (3, 3)
+  ('cooperate', 'defect'): (0, 5)
+  ('defect', 'cooperate'): (5, 0)
+  ('defect', 'defect'): (1, 1)
+
+Optimal Strategies:
+--------------------------------------------------
+
+Max Welfare:
+  p1_defect: 0.000000
+  p2_defect: 0.000000
+  payoff1: 3.000000
+  payoff2: 3.000000
+  total_welfare: 6.000000
+
+Max P1 Payoff:
+  p1_defect: 1.000000
+  p2_defect: 0.000000
+  payoff1: 5.000000
+  payoff2: 0.000000
+
+Max P2 Payoff:
+  p1_defect: 0.000000
+  p2_defect: 1.000000
+  payoff1: 0.000000
+  payoff2: 5.000000
+
+Max Min Payoff:
+  p1_defect: 0.000000
+  p2_defect: 0.000000
+  payoff1: 3.000000
+  payoff2: 3.000000
+  min_payoff: 3.000000
+
+Summary Statistics:
+Total strategy combinations analyzed: 10201
+Maximum total welfare: 6.000000
+Minimum total welfare: 2.000000
+Average total welfare: 4.500000
